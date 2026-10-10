@@ -1,0 +1,31 @@
+{
+    "project": "Deepfake Detection with ConvNeXt-Tiny: An Attention Ablation Study",
+    "dataset": "FaceForensics++",
+    "total_videos": 400,
+    "real_videos": 200,
+    "fake_videos": 200,
+    "frames_per_video": 10,
+    "total_frames": 4000,
+    "train_videos": 280,
+    "validation_videos": 60,
+    "test_videos": 60,
+    "models_evaluated": [
+        "ConvNeXt Baseline",
+        "Channel Attention",
+        "Spatial Attention",
+        "ConvNeXt + FFAM"
+    ],
+    "primary_evaluation_level": "Video",
+    "video_probability_aggregation": "Mean frame-level fake probability",
+    "model_selection_metric": "Validation ROC-AUC",
+    "final_best_model_by_test_roc_auc": "Spatial Attention",
+    "best_model_test_accuracy": 0.8166666666666667,
+    "best_model_test_f1": 0.8135593220338984,
+    "best_model_test_roc_auc": 0.8333333333333334,
+    "best_model_test_pr_auc": 0.8336096194980559,
+    "split_protocol": "Deterministic video-level split with manipulation-pair exclusivity for fake videos",
+    "generalization_scope": "Held-out manipulation pairs; not strict identity-independent evaluation",
+    "bootstrap_iterations": 2000,
+    "confidence_interval": "95%",
+    "random_seed": 42
+}

@@ -1,0 +1,401 @@
+video_name,video_path,label,class_name,source_ids,primary_source_id,num_source_ids,source_group,manipulation_pair,split
+01__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__exit_phone_room.mp4,0,Real,"('01',)",01,1,01,,train
+01__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__kitchen_pan.mp4,0,Real,"('01',)",01,1,01,,train
+01__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__kitchen_still.mp4,0,Real,"('01',)",01,1,01,,train
+01__meeting_serious.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__meeting_serious.mp4,0,Real,"('01',)",01,1,01,,train
+01__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__outside_talking_pan_laughing.mp4,0,Real,"('01',)",01,1,01,,train
+01__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__outside_talking_still_laughing.mp4,0,Real,"('01',)",01,1,01,,train
+01__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__talking_against_wall.mp4,0,Real,"('01',)",01,1,01,,train
+01__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__talking_angry_couch.mp4,0,Real,"('01',)",01,1,01,,train
+01__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__walk_down_hall_angry.mp4,0,Real,"('01',)",01,1,01,,train
+01__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__walking_and_outside_surprised.mp4,0,Real,"('01',)",01,1,01,,train
+01__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__walking_outside_cafe_disgusted.mp4,0,Real,"('01',)",01,1,01,,train
+02__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__exit_phone_room.mp4,0,Real,"('02',)",02,1,01,,train
+02__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__kitchen_pan.mp4,0,Real,"('02',)",02,1,01,,train
+02__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__kitchen_still.mp4,0,Real,"('02',)",02,1,01,,train
+02__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__outside_talking_still_laughing.mp4,0,Real,"('02',)",02,1,01,,train
+02__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__podium_speech_happy.mp4,0,Real,"('02',)",02,1,01,,train
+02__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__secret_conversation.mp4,0,Real,"('02',)",02,1,01,,train
+02__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__talking_against_wall.mp4,0,Real,"('02',)",02,1,01,,train
+02__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__talking_angry_couch.mp4,0,Real,"('02',)",02,1,01,,train
+02__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__walk_down_hall_angry.mp4,0,Real,"('02',)",02,1,01,,train
+02__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__walking_and_outside_surprised.mp4,0,Real,"('02',)",02,1,01,,train
+02__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__walking_down_indoor_hall_disgust.mp4,0,Real,"('02',)",02,1,01,,train
+02__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__walking_down_street_outside_angry.mp4,0,Real,"('02',)",02,1,01,,train
+02__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__walking_outside_cafe_disgusted.mp4,0,Real,"('02',)",02,1,01,,train
+03__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__exit_phone_room.mp4,0,Real,"('03',)",03,1,01,,train
+03__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__hugging_happy.mp4,0,Real,"('03',)",03,1,01,,train
+03__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__kitchen_still.mp4,0,Real,"('03',)",03,1,01,,train
+03__meeting_serious.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__meeting_serious.mp4,0,Real,"('03',)",03,1,01,,train
+03__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__outside_talking_still_laughing.mp4,0,Real,"('03',)",03,1,01,,train
+03__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__podium_speech_happy.mp4,0,Real,"('03',)",03,1,01,,train
+03__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__secret_conversation.mp4,0,Real,"('03',)",03,1,01,,train
+03__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__talking_against_wall.mp4,0,Real,"('03',)",03,1,01,,train
+03__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__talking_angry_couch.mp4,0,Real,"('03',)",03,1,01,,train
+03__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__walk_down_hall_angry.mp4,0,Real,"('03',)",03,1,01,,train
+03__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__walking_and_outside_surprised.mp4,0,Real,"('03',)",03,1,01,,train
+03__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__walking_down_indoor_hall_disgust.mp4,0,Real,"('03',)",03,1,01,,train
+03__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__walking_down_street_outside_angry.mp4,0,Real,"('03',)",03,1,01,,train
+03__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__walking_outside_cafe_disgusted.mp4,0,Real,"('03',)",03,1,01,,train
+04__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__outside_talking_pan_laughing.mp4,0,Real,"('04',)",04,1,01,,train
+04__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__podium_speech_happy.mp4,0,Real,"('04',)",04,1,01,,train
+04__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__talking_against_wall.mp4,0,Real,"('04',)",04,1,01,,train
+04__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__talking_angry_couch.mp4,0,Real,"('04',)",04,1,01,,train
+05__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__exit_phone_room.mp4,0,Real,"('05',)",05,1,05,,train
+05__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__hugging_happy.mp4,0,Real,"('05',)",05,1,05,,train
+05__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__kitchen_pan.mp4,0,Real,"('05',)",05,1,05,,train
+05__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__outside_talking_pan_laughing.mp4,0,Real,"('05',)",05,1,05,,train
+05__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__outside_talking_still_laughing.mp4,0,Real,"('05',)",05,1,05,,train
+05__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__podium_speech_happy.mp4,0,Real,"('05',)",05,1,05,,train
+05__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__talking_against_wall.mp4,0,Real,"('05',)",05,1,05,,train
+05__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__walk_down_hall_angry.mp4,0,Real,"('05',)",05,1,05,,train
+05__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__walking_down_street_outside_angry.mp4,0,Real,"('05',)",05,1,05,,train
+05__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__walking_outside_cafe_disgusted.mp4,0,Real,"('05',)",05,1,05,,train
+06__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__kitchen_pan.mp4,0,Real,"('06',)",06,1,01,,train
+06__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__outside_talking_pan_laughing.mp4,0,Real,"('06',)",06,1,01,,train
+06__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__outside_talking_still_laughing.mp4,0,Real,"('06',)",06,1,01,,train
+06__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__podium_speech_happy.mp4,0,Real,"('06',)",06,1,01,,train
+06__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__talking_against_wall.mp4,0,Real,"('06',)",06,1,01,,train
+06__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__talking_angry_couch.mp4,0,Real,"('06',)",06,1,01,,train
+06__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__walking_and_outside_surprised.mp4,0,Real,"('06',)",06,1,01,,train
+06__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__walking_down_indoor_hall_disgust.mp4,0,Real,"('06',)",06,1,01,,train
+06__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__walking_outside_cafe_disgusted.mp4,0,Real,"('06',)",06,1,01,,train
+07__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__exit_phone_room.mp4,0,Real,"('07',)",07,1,01,,train
+07__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__hugging_happy.mp4,0,Real,"('07',)",07,1,01,,train
+07__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__outside_talking_still_laughing.mp4,0,Real,"('07',)",07,1,01,,train
+07__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__talking_against_wall.mp4,0,Real,"('07',)",07,1,01,,train
+07__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__talking_angry_couch.mp4,0,Real,"('07',)",07,1,01,,train
+07__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__walk_down_hall_angry.mp4,0,Real,"('07',)",07,1,01,,train
+07__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__walking_down_street_outside_angry.mp4,0,Real,"('07',)",07,1,01,,train
+07__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__walking_outside_cafe_disgusted.mp4,0,Real,"('07',)",07,1,01,,train
+08__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__exit_phone_room.mp4,0,Real,"('08',)",08,1,05,,train
+08__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__kitchen_still.mp4,0,Real,"('08',)",08,1,05,,train
+08__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__outside_talking_pan_laughing.mp4,0,Real,"('08',)",08,1,05,,train
+08__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__talking_against_wall.mp4,0,Real,"('08',)",08,1,05,,train
+08__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__walk_down_hall_angry.mp4,0,Real,"('08',)",08,1,05,,train
+09__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__exit_phone_room.mp4,0,Real,"('09',)",09,1,01,,train
+09__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__kitchen_pan.mp4,0,Real,"('09',)",09,1,01,,train
+09__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__outside_talking_still_laughing.mp4,0,Real,"('09',)",09,1,01,,train
+09__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__podium_speech_happy.mp4,0,Real,"('09',)",09,1,01,,train
+09__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__talking_against_wall.mp4,0,Real,"('09',)",09,1,01,,train
+09__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__talking_angry_couch.mp4,0,Real,"('09',)",09,1,01,,train
+09__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__walk_down_hall_angry.mp4,0,Real,"('09',)",09,1,01,,train
+10__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__exit_phone_room.mp4,0,Real,"('10',)",10,1,10,,train
+10__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__kitchen_pan.mp4,0,Real,"('10',)",10,1,10,,train
+10__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__kitchen_still.mp4,0,Real,"('10',)",10,1,10,,train
+10__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__outside_talking_pan_laughing.mp4,0,Real,"('10',)",10,1,10,,train
+10__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__podium_speech_happy.mp4,0,Real,"('10',)",10,1,10,,train
+10__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__talking_against_wall.mp4,0,Real,"('10',)",10,1,10,,train
+10__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__talking_angry_couch.mp4,0,Real,"('10',)",10,1,10,,train
+10__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__walk_down_hall_angry.mp4,0,Real,"('10',)",10,1,10,,train
+10__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__walking_down_street_outside_angry.mp4,0,Real,"('10',)",10,1,10,,train
+10__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__walking_outside_cafe_disgusted.mp4,0,Real,"('10',)",10,1,10,,train
+11__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__exit_phone_room.mp4,0,Real,"('11',)",11,1,01,,train
+11__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__outside_talking_still_laughing.mp4,0,Real,"('11',)",11,1,01,,train
+11__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__podium_speech_happy.mp4,0,Real,"('11',)",11,1,01,,train
+11__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__talking_against_wall.mp4,0,Real,"('11',)",11,1,01,,train
+11__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__talking_angry_couch.mp4,0,Real,"('11',)",11,1,01,,train
+11__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__walk_down_hall_angry.mp4,0,Real,"('11',)",11,1,01,,train
+11__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__walking_down_street_outside_angry.mp4,0,Real,"('11',)",11,1,01,,train
+11__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__walking_outside_cafe_disgusted.mp4,0,Real,"('11',)",11,1,01,,train
+12__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__exit_phone_room.mp4,0,Real,"('12',)",12,1,01,,train
+12__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__hugging_happy.mp4,0,Real,"('12',)",12,1,01,,train
+12__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__kitchen_pan.mp4,0,Real,"('12',)",12,1,01,,train
+12__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__kitchen_still.mp4,0,Real,"('12',)",12,1,01,,train
+12__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__outside_talking_pan_laughing.mp4,0,Real,"('12',)",12,1,01,,train
+12__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__outside_talking_still_laughing.mp4,0,Real,"('12',)",12,1,01,,train
+12__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__podium_speech_happy.mp4,0,Real,"('12',)",12,1,01,,train
+12__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__secret_conversation.mp4,0,Real,"('12',)",12,1,01,,train
+12__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__talking_against_wall.mp4,0,Real,"('12',)",12,1,01,,train
+12__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__walk_down_hall_angry.mp4,0,Real,"('12',)",12,1,01,,train
+12__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__walking_down_indoor_hall_disgust.mp4,0,Real,"('12',)",12,1,01,,train
+12__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__walking_down_street_outside_angry.mp4,0,Real,"('12',)",12,1,01,,train
+12__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__walking_outside_cafe_disgusted.mp4,0,Real,"('12',)",12,1,01,,train
+13__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__exit_phone_room.mp4,0,Real,"('13',)",13,1,01,,train
+13__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__hugging_happy.mp4,0,Real,"('13',)",13,1,01,,train
+13__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__kitchen_still.mp4,0,Real,"('13',)",13,1,01,,train
+13__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__outside_talking_pan_laughing.mp4,0,Real,"('13',)",13,1,01,,train
+13__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__podium_speech_happy.mp4,0,Real,"('13',)",13,1,01,,train
+13__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__secret_conversation.mp4,0,Real,"('13',)",13,1,01,,train
+13__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__talking_against_wall.mp4,0,Real,"('13',)",13,1,01,,train
+13__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__talking_angry_couch.mp4,0,Real,"('13',)",13,1,01,,train
+13__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__walk_down_hall_angry.mp4,0,Real,"('13',)",13,1,01,,train
+13__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__walking_and_outside_surprised.mp4,0,Real,"('13',)",13,1,01,,train
+13__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__walking_down_street_outside_angry.mp4,0,Real,"('13',)",13,1,01,,train
+13__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__walking_outside_cafe_disgusted.mp4,0,Real,"('13',)",13,1,01,,train
+14__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__exit_phone_room.mp4,0,Real,"('14',)",14,1,01,,train
+14__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__kitchen_pan.mp4,0,Real,"('14',)",14,1,01,,train
+14__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__kitchen_still.mp4,0,Real,"('14',)",14,1,01,,train
+14__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__outside_talking_pan_laughing.mp4,0,Real,"('14',)",14,1,01,,train
+14__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__secret_conversation.mp4,0,Real,"('14',)",14,1,01,,train
+14__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__walking_down_indoor_hall_disgust.mp4,0,Real,"('14',)",14,1,01,,train
+14__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__walking_outside_cafe_disgusted.mp4,0,Real,"('14',)",14,1,01,,train
+15__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__hugging_happy.mp4,0,Real,"('15',)",15,1,01,,train
+15__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__kitchen_pan.mp4,0,Real,"('15',)",15,1,01,,train
+15__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__outside_talking_pan_laughing.mp4,0,Real,"('15',)",15,1,01,,train
+15__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__outside_talking_still_laughing.mp4,0,Real,"('15',)",15,1,01,,train
+15__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__podium_speech_happy.mp4,0,Real,"('15',)",15,1,01,,train
+15__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__walk_down_hall_angry.mp4,0,Real,"('15',)",15,1,01,,train
+15__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__walking_and_outside_surprised.mp4,0,Real,"('15',)",15,1,01,,train
+15__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__walking_down_street_outside_angry.mp4,0,Real,"('15',)",15,1,01,,train
+15__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__walking_outside_cafe_disgusted.mp4,0,Real,"('15',)",15,1,01,,train
+01_02__outside_talking_still_laughing__YVGY8LOK.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_02__outside_talking_still_laughing__YVGY8LOK.mp4,1,Fake,"('01', '02')",01,2,01,"('01', '02')",train
+01_02__walk_down_hall_angry__YVGY8LOK.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_02__walk_down_hall_angry__YVGY8LOK.mp4,1,Fake,"('01', '02')",01,2,01,"('01', '02')",train
+01_03__hugging_happy__ISF9SP4G.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_03__hugging_happy__ISF9SP4G.mp4,1,Fake,"('01', '03')",01,2,01,"('01', '03')",train
+01_03__podium_speech_happy__480LQD1C.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_03__podium_speech_happy__480LQD1C.mp4,1,Fake,"('01', '03')",01,2,01,"('01', '03')",train
+01_03__talking_against_wall__JZUXXFRB.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_03__talking_against_wall__JZUXXFRB.mp4,1,Fake,"('01', '03')",01,2,01,"('01', '03')",train
+01_11__meeting_serious__9OM3VE0Y.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_11__meeting_serious__9OM3VE0Y.mp4,1,Fake,"('01', '11')",01,2,01,"('01', '11')",train
+01_11__secret_conversation__4OJNJLOO.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_11__secret_conversation__4OJNJLOO.mp4,1,Fake,"('01', '11')",01,2,01,"('01', '11')",train
+01_11__talking_against_wall__9229VVZ3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_11__talking_against_wall__9229VVZ3.mp4,1,Fake,"('01', '11')",01,2,01,"('01', '11')",train
+01_11__walking_outside_cafe_disgusted__FAFWDR4W.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_11__walking_outside_cafe_disgusted__FAFWDR4W.mp4,1,Fake,"('01', '11')",01,2,01,"('01', '11')",train
+01_12__outside_talking_pan_laughing__TNI7KUZ6.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_12__outside_talking_pan_laughing__TNI7KUZ6.mp4,1,Fake,"('01', '12')",01,2,01,"('01', '12')",train
+01_27__hugging_happy__ZYCZ30C0.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_27__hugging_happy__ZYCZ30C0.mp4,1,Fake,"('01', '27')",01,2,01,"('01', '27')",train
+01_27__outside_talking_still_laughing__ZYCZ30C0.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_27__outside_talking_still_laughing__ZYCZ30C0.mp4,1,Fake,"('01', '27')",01,2,01,"('01', '27')",train
+01_27__walking_outside_cafe_disgusted__ZYCZ30C0.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_27__walking_outside_cafe_disgusted__ZYCZ30C0.mp4,1,Fake,"('01', '27')",01,2,01,"('01', '27')",train
+02_01__secret_conversation__YVGY8LOK.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_01__secret_conversation__YVGY8LOK.mp4,1,Fake,"('01', '02')",01,2,01,"('01', '02')",train
+02_06__podium_speech_happy__N8OSN8P6.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_06__podium_speech_happy__N8OSN8P6.mp4,1,Fake,"('02', '06')",02,2,01,"('02', '06')",train
+02_06__talking_angry_couch__GH8TGTBS.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_06__talking_angry_couch__GH8TGTBS.mp4,1,Fake,"('02', '06')",02,2,01,"('02', '06')",train
+02_06__talking_angry_couch__MKZTXQ2T.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_06__talking_angry_couch__MKZTXQ2T.mp4,1,Fake,"('02', '06')",02,2,01,"('02', '06')",train
+02_06__walking_and_outside_surprised__N8OSN8P6.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_06__walking_and_outside_surprised__N8OSN8P6.mp4,1,Fake,"('02', '06')",02,2,01,"('02', '06')",train
+02_06__walking_down_indoor_hall_disgust__U6MDWIHG.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_06__walking_down_indoor_hall_disgust__U6MDWIHG.mp4,1,Fake,"('02', '06')",02,2,01,"('02', '06')",train
+02_07__meeting_serious__1JCLEEBQ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_07__meeting_serious__1JCLEEBQ.mp4,1,Fake,"('02', '07')",02,2,01,"('02', '07')",train
+02_07__walk_down_hall_angry__U7DEOZNV.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_07__walk_down_hall_angry__U7DEOZNV.mp4,1,Fake,"('02', '07')",02,2,01,"('02', '07')",train
+02_07__walking_and_outside_surprised__1VMZUH1W.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_07__walking_and_outside_surprised__1VMZUH1W.mp4,1,Fake,"('02', '07')",02,2,01,"('02', '07')",train
+02_07__walking_down_street_outside_angry__O4SXNLRL.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_07__walking_down_street_outside_angry__O4SXNLRL.mp4,1,Fake,"('02', '07')",02,2,01,"('02', '07')",train
+02_09__exit_phone_room__HIH8YA82.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_09__exit_phone_room__HIH8YA82.mp4,1,Fake,"('02', '09')",02,2,01,"('02', '09')",train
+02_09__kitchen_pan__HIH8YA82.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_09__kitchen_pan__HIH8YA82.mp4,1,Fake,"('02', '09')",02,2,01,"('02', '09')",train
+02_13__exit_phone_room__CP5HFV3K.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_13__exit_phone_room__CP5HFV3K.mp4,1,Fake,"('02', '13')",02,2,01,"('02', '13')",train
+02_13__outside_talking_pan_laughing__2YSYT2N3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_13__outside_talking_pan_laughing__2YSYT2N3.mp4,1,Fake,"('02', '13')",02,2,01,"('02', '13')",train
+02_13__podium_speech_happy__2YSYT2N3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_13__podium_speech_happy__2YSYT2N3.mp4,1,Fake,"('02', '13')",02,2,01,"('02', '13')",train
+02_13__secret_conversation__CP5HFV3K.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_13__secret_conversation__CP5HFV3K.mp4,1,Fake,"('02', '13')",02,2,01,"('02', '13')",train
+02_14__outside_talking_pan_laughing__3IUBEKCT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_14__outside_talking_pan_laughing__3IUBEKCT.mp4,1,Fake,"('02', '14')",02,2,01,"('02', '14')",train
+02_15__exit_phone_room__I8G2LWD1.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__exit_phone_room__I8G2LWD1.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__exit_phone_room__MZWH8ATN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__exit_phone_room__MZWH8ATN.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__outside_talking_pan_laughing__I8G2LWD1.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__outside_talking_pan_laughing__I8G2LWD1.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__outside_talking_pan_laughing__SB6PMCO0.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__outside_talking_pan_laughing__SB6PMCO0.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__secret_conversation__MZWH8ATN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__secret_conversation__MZWH8ATN.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__talking_against_wall__HTG660F8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__talking_against_wall__HTG660F8.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__talking_angry_couch__HTG660F8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__talking_angry_couch__HTG660F8.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__talking_angry_couch__I8G2LWD1.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__talking_angry_couch__I8G2LWD1.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__walk_down_hall_angry__TN2CWM3K.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__walk_down_hall_angry__TN2CWM3K.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__walking_and_outside_surprised__HTG660F8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__walking_and_outside_surprised__HTG660F8.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__walking_and_outside_surprised__I8G2LWD1.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__walking_and_outside_surprised__I8G2LWD1.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_15__walking_and_outside_surprised__MZWH8ATN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_15__walking_and_outside_surprised__MZWH8ATN.mp4,1,Fake,"('02', '15')",02,2,01,"('02', '15')",train
+02_18__exit_phone_room__OXMEEFUQ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_18__exit_phone_room__OXMEEFUQ.mp4,1,Fake,"('02', '18')",02,2,01,"('02', '18')",train
+02_18__outside_talking_pan_laughing__OXMEEFUQ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_18__outside_talking_pan_laughing__OXMEEFUQ.mp4,1,Fake,"('02', '18')",02,2,01,"('02', '18')",train
+02_18__walking_down_street_outside_angry__21JTDDEL.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_18__walking_down_street_outside_angry__21JTDDEL.mp4,1,Fake,"('02', '18')",02,2,01,"('02', '18')",train
+02_21__kitchen_pan__Z0XHPQAR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_21__kitchen_pan__Z0XHPQAR.mp4,1,Fake,"('02', '21')",02,2,01,"('02', '21')",train
+02_21__talking_angry_couch__Z0XHPQAR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_21__talking_angry_couch__Z0XHPQAR.mp4,1,Fake,"('02', '21')",02,2,01,"('02', '21')",train
+03_01__walking_and_outside_surprised__JZUXXFRB.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_01__walking_and_outside_surprised__JZUXXFRB.mp4,1,Fake,"('01', '03')",01,2,01,"('01', '03')",train
+03_06__meeting_serious__83ABVHC3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_06__meeting_serious__83ABVHC3.mp4,1,Fake,"('03', '06')",03,2,01,"('03', '06')",train
+03_06__podium_speech_happy__83ABVHC3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_06__podium_speech_happy__83ABVHC3.mp4,1,Fake,"('03', '06')",03,2,01,"('03', '06')",train
+03_07__hugging_happy__BKLOCI1M.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_07__hugging_happy__BKLOCI1M.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+03_07__walk_down_hall_angry__6PHZRQ4H.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_07__walk_down_hall_angry__6PHZRQ4H.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+03_07__walk_down_hall_angry__IFSURI9X.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_07__walk_down_hall_angry__IFSURI9X.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+03_07__walking_down_indoor_hall_disgust__PWXXULHR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_07__walking_down_indoor_hall_disgust__PWXXULHR.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+03_07__walking_outside_cafe_disgusted__CDSNLDQ8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_07__walking_outside_cafe_disgusted__CDSNLDQ8.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+03_07__walking_outside_cafe_disgusted__IFSURI9X.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_07__walking_outside_cafe_disgusted__IFSURI9X.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+03_07__walking_outside_cafe_disgusted__PWXXULHR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_07__walking_outside_cafe_disgusted__PWXXULHR.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+03_09__outside_talking_still_laughing__RCETIXYL.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_09__outside_talking_still_laughing__RCETIXYL.mp4,1,Fake,"('03', '09')",03,2,01,"('03', '09')",train
+03_09__secret_conversation__RCETIXYL.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_09__secret_conversation__RCETIXYL.mp4,1,Fake,"('03', '09')",03,2,01,"('03', '09')",train
+03_11__exit_phone_room__P08VGHTA.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_11__exit_phone_room__P08VGHTA.mp4,1,Fake,"('03', '11')",03,2,01,"('03', '11')",train
+03_11__talking_against_wall__P08VGHTA.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_11__talking_against_wall__P08VGHTA.mp4,1,Fake,"('03', '11')",03,2,01,"('03', '11')",train
+03_13__kitchen_pan__GBYWJW06.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_13__kitchen_pan__GBYWJW06.mp4,1,Fake,"('03', '13')",03,2,01,"('03', '13')",train
+03_13__meeting_serious__GBYWJW06.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_13__meeting_serious__GBYWJW06.mp4,1,Fake,"('03', '13')",03,2,01,"('03', '13')",train
+03_13__meeting_serious__T3MZOI8X.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_13__meeting_serious__T3MZOI8X.mp4,1,Fake,"('03', '13')",03,2,01,"('03', '13')",train
+03_13__outside_talking_still_laughing__GBYWJW06.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_13__outside_talking_still_laughing__GBYWJW06.mp4,1,Fake,"('03', '13')",03,2,01,"('03', '13')",train
+03_14__podium_speech_happy__Q9NSXM88.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_14__podium_speech_happy__Q9NSXM88.mp4,1,Fake,"('03', '14')",03,2,01,"('03', '14')",train
+03_14__talking_against_wall__ZC2KYASW.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_14__talking_against_wall__ZC2KYASW.mp4,1,Fake,"('03', '14')",03,2,01,"('03', '14')",train
+03_14__walk_down_hall_angry__P1L5PF4I.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_14__walk_down_hall_angry__P1L5PF4I.mp4,1,Fake,"('03', '14')",03,2,01,"('03', '14')",train
+03_14__walking_down_street_outside_angry__H0VQHGS3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_14__walking_down_street_outside_angry__H0VQHGS3.mp4,1,Fake,"('03', '14')",03,2,01,"('03', '14')",train
+03_15__kitchen_pan__AIOM1U5V.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_15__kitchen_pan__AIOM1U5V.mp4,1,Fake,"('03', '15')",03,2,01,"('03', '15')",train
+03_15__kitchen_pan__DNUJD8M2.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_15__kitchen_pan__DNUJD8M2.mp4,1,Fake,"('03', '15')",03,2,01,"('03', '15')",train
+03_15__outside_talking_pan_laughing__Y11NT1YX.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_15__outside_talking_pan_laughing__Y11NT1YX.mp4,1,Fake,"('03', '15')",03,2,01,"('03', '15')",train
+03_15__outside_talking_still_laughing__DNUJD8M2.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_15__outside_talking_still_laughing__DNUJD8M2.mp4,1,Fake,"('03', '15')",03,2,01,"('03', '15')",train
+03_15__podium_speech_happy__DG8ITQO3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_15__podium_speech_happy__DG8ITQO3.mp4,1,Fake,"('03', '15')",03,2,01,"('03', '15')",train
+03_21__exit_phone_room__YCSEBZO4.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_21__exit_phone_room__YCSEBZO4.mp4,1,Fake,"('03', '21')",03,2,01,"('03', '21')",train
+03_21__kitchen_pan__YCSEBZO4.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_21__kitchen_pan__YCSEBZO4.mp4,1,Fake,"('03', '21')",03,2,01,"('03', '21')",train
+03_21__meeting_serious__V53E3RVB.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_21__meeting_serious__V53E3RVB.mp4,1,Fake,"('03', '21')",03,2,01,"('03', '21')",train
+03_21__secret_conversation__YCSEBZO4.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_21__secret_conversation__YCSEBZO4.mp4,1,Fake,"('03', '21')",03,2,01,"('03', '21')",train
+03_26__kitchen_pan__WBSXBL82.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_26__kitchen_pan__WBSXBL82.mp4,1,Fake,"('03', '26')",03,2,01,"('03', '26')",train
+03_26__kitchen_still__WBSXBL82.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_26__kitchen_still__WBSXBL82.mp4,1,Fake,"('03', '26')",03,2,01,"('03', '26')",train
+03_26__talking_against_wall__WBSXBL82.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_26__talking_against_wall__WBSXBL82.mp4,1,Fake,"('03', '26')",03,2,01,"('03', '26')",train
+04_01__exit_phone_room__0XUW13RW.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_01__exit_phone_room__0XUW13RW.mp4,1,Fake,"('01', '04')",01,2,01,"('01', '04')",train
+04_01__kitchen_still__6I623VU9.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_01__kitchen_still__6I623VU9.mp4,1,Fake,"('01', '04')",01,2,01,"('01', '04')",train
+04_01__outside_talking_still_laughing__0XUW13RW.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_01__outside_talking_still_laughing__0XUW13RW.mp4,1,Fake,"('01', '04')",01,2,01,"('01', '04')",train
+04_01__outside_talking_still_laughing__6I623VU9.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_01__outside_talking_still_laughing__6I623VU9.mp4,1,Fake,"('01', '04')",01,2,01,"('01', '04')",train
+04_01__secret_conversation__6I623VU9.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_01__secret_conversation__6I623VU9.mp4,1,Fake,"('01', '04')",01,2,01,"('01', '04')",train
+04_06__kitchen_still__ZK95PQDE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_06__kitchen_still__ZK95PQDE.mp4,1,Fake,"('04', '06')",04,2,01,"('04', '06')",train
+04_07__exit_phone_room__ITC0C48B.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_07__exit_phone_room__ITC0C48B.mp4,1,Fake,"('04', '07')",04,2,01,"('04', '07')",train
+04_07__kitchen_pan__XRK7FGZX.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_07__kitchen_pan__XRK7FGZX.mp4,1,Fake,"('04', '07')",04,2,01,"('04', '07')",train
+04_13__podium_speech_happy__00T3UYOR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_13__podium_speech_happy__00T3UYOR.mp4,1,Fake,"('04', '13')",04,2,01,"('04', '13')",train
+04_13__secret_conversation__00T3UYOR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_13__secret_conversation__00T3UYOR.mp4,1,Fake,"('04', '13')",04,2,01,"('04', '13')",train
+04_13__walking_down_street_outside_angry__00T3UYOR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_13__walking_down_street_outside_angry__00T3UYOR.mp4,1,Fake,"('04', '13')",04,2,01,"('04', '13')",train
+04_13__walking_outside_cafe_disgusted__00T3UYOR.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_13__walking_outside_cafe_disgusted__00T3UYOR.mp4,1,Fake,"('04', '13')",04,2,01,"('04', '13')",train
+04_18__kitchen_still__NAXINA1N.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_18__kitchen_still__NAXINA1N.mp4,1,Fake,"('04', '18')",04,2,01,"('04', '18')",train
+05_28__exit_phone_room__U9LRLJ6N.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_28__exit_phone_room__U9LRLJ6N.mp4,1,Fake,"('05', '28')",05,2,05,"('05', '28')",train
+05_28__kitchen_still__W3J028UG.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_28__kitchen_still__W3J028UG.mp4,1,Fake,"('05', '28')",05,2,05,"('05', '28')",train
+06_02__podium_speech_happy__N8OSN8P6.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_02__podium_speech_happy__N8OSN8P6.mp4,1,Fake,"('02', '06')",02,2,01,"('02', '06')",train
+06_02__walk_down_hall_angry__37DH75GQ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_02__walk_down_hall_angry__37DH75GQ.mp4,1,Fake,"('02', '06')",02,2,01,"('02', '06')",train
+06_03__talking_against_wall__4I8LRXWF.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_03__talking_against_wall__4I8LRXWF.mp4,1,Fake,"('03', '06')",03,2,01,"('03', '06')",train
+06_04__outside_talking_still_laughing__ZK95PQDE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_04__outside_talking_still_laughing__ZK95PQDE.mp4,1,Fake,"('04', '06')",04,2,01,"('04', '06')",train
+06_04__walking_outside_cafe_disgusted__ZK95PQDE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_04__walking_outside_cafe_disgusted__ZK95PQDE.mp4,1,Fake,"('04', '06')",04,2,01,"('04', '06')",train
+06_07__exit_phone_room__NMGYPBXE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_07__exit_phone_room__NMGYPBXE.mp4,1,Fake,"('06', '07')",06,2,01,"('06', '07')",train
+06_07__kitchen_pan__NMGYPBXE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_07__kitchen_pan__NMGYPBXE.mp4,1,Fake,"('06', '07')",06,2,01,"('06', '07')",train
+06_07__walking_down_street_outside_angry__NMGYPBXE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_07__walking_down_street_outside_angry__NMGYPBXE.mp4,1,Fake,"('06', '07')",06,2,01,"('06', '07')",train
+06_11__walking_outside_cafe_disgusted__MX659QU8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_11__walking_outside_cafe_disgusted__MX659QU8.mp4,1,Fake,"('06', '11')",06,2,01,"('06', '11')",train
+06_14__outside_talking_pan_laughing__8U9ULZDT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_14__outside_talking_pan_laughing__8U9ULZDT.mp4,1,Fake,"('06', '14')",06,2,01,"('06', '14')",train
+06_14__walking_and_outside_surprised__8U9ULZDT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_14__walking_and_outside_surprised__8U9ULZDT.mp4,1,Fake,"('06', '14')",06,2,01,"('06', '14')",train
+06_14__walking_down_indoor_hall_disgust__8U9ULZDT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_14__walking_down_indoor_hall_disgust__8U9ULZDT.mp4,1,Fake,"('06', '14')",06,2,01,"('06', '14')",train
+06_18__outside_talking_pan_laughing__DEA1TCLN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_18__outside_talking_pan_laughing__DEA1TCLN.mp4,1,Fake,"('06', '18')",06,2,01,"('06', '18')",train
+06_18__outside_talking_still_laughing__M36D0OJT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_18__outside_talking_still_laughing__M36D0OJT.mp4,1,Fake,"('06', '18')",06,2,01,"('06', '18')",train
+06_18__podium_speech_happy__DEA1TCLN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_18__podium_speech_happy__DEA1TCLN.mp4,1,Fake,"('06', '18')",06,2,01,"('06', '18')",train
+06_18__walk_down_hall_angry__LH0KWJKM.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_18__walk_down_hall_angry__LH0KWJKM.mp4,1,Fake,"('06', '18')",06,2,01,"('06', '18')",train
+07_02__talking_angry_couch__1H07DFQJ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_02__talking_angry_couch__1H07DFQJ.mp4,1,Fake,"('02', '07')",02,2,01,"('02', '07')",train
+07_02__walking_down_street_outside_angry__O4SXNLRL.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_02__walking_down_street_outside_angry__O4SXNLRL.mp4,1,Fake,"('02', '07')",02,2,01,"('02', '07')",train
+07_03__hugging_happy__7NGMD8FT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_03__hugging_happy__7NGMD8FT.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+07_03__outside_talking_pan_laughing__IFSURI9X.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_03__outside_talking_pan_laughing__IFSURI9X.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+07_03__podium_speech_happy__6PHZRQ4H.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_03__podium_speech_happy__6PHZRQ4H.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+07_03__secret_conversation__IFSURI9X.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_03__secret_conversation__IFSURI9X.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+07_03__talking_angry_couch__WPT3Z2KN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_03__talking_angry_couch__WPT3Z2KN.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+07_03__walking_outside_cafe_disgusted__F0YYEA5W.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_03__walking_outside_cafe_disgusted__F0YYEA5W.mp4,1,Fake,"('03', '07')",03,2,01,"('03', '07')",train
+07_06__kitchen_pan__NMGYPBXE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_06__kitchen_pan__NMGYPBXE.mp4,1,Fake,"('06', '07')",06,2,01,"('06', '07')",train
+07_06__outside_talking_still_laughing__NMGYPBXE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_06__outside_talking_still_laughing__NMGYPBXE.mp4,1,Fake,"('06', '07')",06,2,01,"('06', '07')",train
+07_06__walking_down_street_outside_angry__NMGYPBXE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_06__walking_down_street_outside_angry__NMGYPBXE.mp4,1,Fake,"('06', '07')",06,2,01,"('06', '07')",train
+07_09__outside_talking_still_laughing__N9CWME71.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_09__outside_talking_still_laughing__N9CWME71.mp4,1,Fake,"('07', '09')",07,2,01,"('07', '09')",train
+07_09__walk_down_hall_angry__N9CWME71.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_09__walk_down_hall_angry__N9CWME71.mp4,1,Fake,"('07', '09')",07,2,01,"('07', '09')",train
+07_13__walking_outside_cafe_disgusted__RVQCPCJF.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_13__walking_outside_cafe_disgusted__RVQCPCJF.mp4,1,Fake,"('07', '13')",07,2,01,"('07', '13')",train
+07_14__exit_phone_room__P9QFO50U.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_14__exit_phone_room__P9QFO50U.mp4,1,Fake,"('07', '14')",07,2,01,"('07', '14')",train
+07_14__talking_against_wall__P9QFO50U.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_14__talking_against_wall__P9QFO50U.mp4,1,Fake,"('07', '14')",07,2,01,"('07', '14')",train
+07_27__walking_down_street_outside_angry__3RH5PR6S.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_27__walking_down_street_outside_angry__3RH5PR6S.mp4,1,Fake,"('07', '27')",07,2,01,"('07', '27')",train
+09_01__talking_against_wall__O8HNNX43.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_01__talking_against_wall__O8HNNX43.mp4,1,Fake,"('01', '09')",01,2,01,"('01', '09')",train
+09_01__walk_down_hall_angry__6TSGVLHA.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_01__walk_down_hall_angry__6TSGVLHA.mp4,1,Fake,"('01', '09')",01,2,01,"('01', '09')",train
+09_02__walk_down_hall_angry__6KUOFMZW.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_02__walk_down_hall_angry__6KUOFMZW.mp4,1,Fake,"('02', '09')",02,2,01,"('02', '09')",train
+09_02__walking_down_street_outside_angry__6KUOFMZW.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_02__walking_down_street_outside_angry__6KUOFMZW.mp4,1,Fake,"('02', '09')",02,2,01,"('02', '09')",train
+09_02__walking_down_street_outside_angry__9TDCEK1Q.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_02__walking_down_street_outside_angry__9TDCEK1Q.mp4,1,Fake,"('02', '09')",02,2,01,"('02', '09')",train
+09_03__kitchen_pan__8DTEGQ54.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_03__kitchen_pan__8DTEGQ54.mp4,1,Fake,"('03', '09')",03,2,01,"('03', '09')",train
+09_03__talking_against_wall__8DTEGQ54.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_03__talking_against_wall__8DTEGQ54.mp4,1,Fake,"('03', '09')",03,2,01,"('03', '09')",train
+09_07__kitchen_pan__N9CWME71.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_07__kitchen_pan__N9CWME71.mp4,1,Fake,"('07', '09')",07,2,01,"('07', '09')",train
+09_13__kitchen_pan__21H6XSPE.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_13__kitchen_pan__21H6XSPE.mp4,1,Fake,"('09', '13')",09,2,01,"('09', '13')",train
+09_13__outside_talking_pan_laughing__LPT427RY.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_13__outside_talking_pan_laughing__LPT427RY.mp4,1,Fake,"('09', '13')",09,2,01,"('09', '13')",train
+09_18__outside_talking_pan_laughing__3VP8836C.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_18__outside_talking_pan_laughing__3VP8836C.mp4,1,Fake,"('09', '18')",09,2,01,"('09', '18')",train
+01__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__podium_speech_happy.mp4,0,Real,"('01',)",01,1,01,,val
+01__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__secret_conversation.mp4,0,Real,"('01',)",01,1,01,,val
+01__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__walking_down_indoor_hall_disgust.mp4,0,Real,"('01',)",01,1,01,,val
+02__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__hugging_happy.mp4,0,Real,"('02',)",02,1,01,,val
+03__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__kitchen_pan.mp4,0,Real,"('03',)",03,1,01,,val
+04__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__kitchen_pan.mp4,0,Real,"('04',)",04,1,01,,val
+04__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__kitchen_still.mp4,0,Real,"('04',)",04,1,01,,val
+04__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__secret_conversation.mp4,0,Real,"('04',)",04,1,01,,val
+04__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__walking_down_street_outside_angry.mp4,0,Real,"('04',)",04,1,01,,val
+04__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__walking_outside_cafe_disgusted.mp4,0,Real,"('04',)",04,1,01,,val
+05__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/05__kitchen_still.mp4,0,Real,"('05',)",05,1,05,,val
+06__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__hugging_happy.mp4,0,Real,"('06',)",06,1,01,,val
+06__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__walk_down_hall_angry.mp4,0,Real,"('06',)",06,1,01,,val
+06__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__walking_down_street_outside_angry.mp4,0,Real,"('06',)",06,1,01,,val
+07__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__outside_talking_pan_laughing.mp4,0,Real,"('07',)",07,1,01,,val
+07__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__podium_speech_happy.mp4,0,Real,"('07',)",07,1,01,,val
+08__walking_outside_cafe_disgusted.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__walking_outside_cafe_disgusted.mp4,0,Real,"('08',)",08,1,05,,val
+09__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__outside_talking_pan_laughing.mp4,0,Real,"('09',)",09,1,01,,val
+11__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__outside_talking_pan_laughing.mp4,0,Real,"('11',)",11,1,01,,val
+11__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__secret_conversation.mp4,0,Real,"('11',)",11,1,01,,val
+13__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__walking_down_indoor_hall_disgust.mp4,0,Real,"('13',)",13,1,01,,val
+14__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__hugging_happy.mp4,0,Real,"('14',)",14,1,01,,val
+14__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__outside_talking_still_laughing.mp4,0,Real,"('14',)",14,1,01,,val
+14__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__podium_speech_happy.mp4,0,Real,"('14',)",14,1,01,,val
+14__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__talking_against_wall.mp4,0,Real,"('14',)",14,1,01,,val
+14__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__walk_down_hall_angry.mp4,0,Real,"('14',)",14,1,01,,val
+14__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__walking_and_outside_surprised.mp4,0,Real,"('14',)",14,1,01,,val
+14__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__walking_down_street_outside_angry.mp4,0,Real,"('14',)",14,1,01,,val
+15__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__exit_phone_room.mp4,0,Real,"('15',)",15,1,01,,val
+15__walking_down_indoor_hall_disgust.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__walking_down_indoor_hall_disgust.mp4,0,Real,"('15',)",15,1,01,,val
+01_20__outside_talking_pan_laughing__OTGHOG4Z.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_20__outside_talking_pan_laughing__OTGHOG4Z.mp4,1,Fake,"('01', '20')",01,2,01,"('01', '20')",val
+01_20__outside_talking_still_laughing__FW94AIMJ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_20__outside_talking_still_laughing__FW94AIMJ.mp4,1,Fake,"('01', '20')",01,2,01,"('01', '20')",val
+01_21__walk_down_hall_angry__03X7CELV.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/01_21__walk_down_hall_angry__03X7CELV.mp4,1,Fake,"('01', '21')",01,2,01,"('01', '21')",val
+02_25__talking_against_wall__Z7FQ69VP.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_25__talking_against_wall__Z7FQ69VP.mp4,1,Fake,"('02', '25')",02,2,01,"('02', '25')",val
+02_27__hugging_happy__GVFLSZD5.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_27__hugging_happy__GVFLSZD5.mp4,1,Fake,"('02', '27')",02,2,01,"('02', '27')",val
+02_27__walk_down_hall_angry__78M8S6M6.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_27__walk_down_hall_angry__78M8S6M6.mp4,1,Fake,"('02', '27')",02,2,01,"('02', '27')",val
+03_18__walking_and_outside_surprised__8HNSXOBW.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_18__walking_and_outside_surprised__8HNSXOBW.mp4,1,Fake,"('03', '18')",03,2,01,"('03', '18')",val
+03_18__walking_outside_cafe_disgusted__22UBC0BS.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_18__walking_outside_cafe_disgusted__22UBC0BS.mp4,1,Fake,"('03', '18')",03,2,01,"('03', '18')",val
+04_21__walking_down_street_outside_angry__5Y31RZP8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_21__walking_down_street_outside_angry__5Y31RZP8.mp4,1,Fake,"('04', '21')",04,2,01,"('04', '21')",val
+05_08__talking_against_wall__PRBCE28Z.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_08__talking_against_wall__PRBCE28Z.mp4,1,Fake,"('05', '08')",05,2,05,"('05', '08')",val
+05_16__exit_phone_room__B62WCGUN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_16__exit_phone_room__B62WCGUN.mp4,1,Fake,"('05', '16')",05,2,05,"('05', '16')",val
+05_16__walk_down_hall_angry__OSXCUOHX.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_16__walk_down_hall_angry__OSXCUOHX.mp4,1,Fake,"('05', '16')",05,2,05,"('05', '16')",val
+05_16__walk_down_hall_angry__U9WZI5LK.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_16__walk_down_hall_angry__U9WZI5LK.mp4,1,Fake,"('05', '16')",05,2,05,"('05', '16')",val
+06_15__exit_phone_room__QRCD27P8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_15__exit_phone_room__QRCD27P8.mp4,1,Fake,"('06', '15')",06,2,01,"('06', '15')",val
+06_15__outside_talking_still_laughing__QRCD27P8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_15__outside_talking_still_laughing__QRCD27P8.mp4,1,Fake,"('06', '15')",06,2,01,"('06', '15')",val
+06_15__walking_and_outside_surprised__QRCD27P8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_15__walking_and_outside_surprised__QRCD27P8.mp4,1,Fake,"('06', '15')",06,2,01,"('06', '15')",val
+06_20__kitchen_pan__6SUW7063.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_20__kitchen_pan__6SUW7063.mp4,1,Fake,"('06', '20')",06,2,01,"('06', '20')",val
+06_26__kitchen_pan__L5BVR5L9.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_26__kitchen_pan__L5BVR5L9.mp4,1,Fake,"('06', '26')",06,2,01,"('06', '26')",val
+06_26__kitchen_still__L5BVR5L9.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_26__kitchen_still__L5BVR5L9.mp4,1,Fake,"('06', '26')",06,2,01,"('06', '26')",val
+07_15__hugging_happy__9Z2MLKVX.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_15__hugging_happy__9Z2MLKVX.mp4,1,Fake,"('07', '15')",07,2,01,"('07', '15')",val
+07_20__outside_talking_pan_laughing__KV6Q7D6C.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_20__outside_talking_pan_laughing__KV6Q7D6C.mp4,1,Fake,"('07', '20')",07,2,01,"('07', '20')",val
+07_20__talking_against_wall__KV6Q7D6C.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_20__talking_against_wall__KV6Q7D6C.mp4,1,Fake,"('07', '20')",07,2,01,"('07', '20')",val
+07_21__exit_phone_room__K7KXUHMU.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_21__exit_phone_room__K7KXUHMU.mp4,1,Fake,"('07', '21')",07,2,01,"('07', '21')",val
+07_21__outside_talking_still_laughing__K7KXUHMU.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_21__outside_talking_still_laughing__K7KXUHMU.mp4,1,Fake,"('07', '21')",07,2,01,"('07', '21')",val
+07_21__talking_against_wall__MKU99DVX.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_21__talking_against_wall__MKU99DVX.mp4,1,Fake,"('07', '21')",07,2,01,"('07', '21')",val
+08_05__walk_down_hall_angry__FBICSP2C.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/08_05__walk_down_hall_angry__FBICSP2C.mp4,1,Fake,"('05', '08')",05,2,05,"('05', '08')",val
+08_16__podium_speech_happy__8Q7JCS95.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/08_16__podium_speech_happy__8Q7JCS95.mp4,1,Fake,"('08', '16')",08,2,05,"('08', '16')",val
+09_25__walking_down_street_outside_angry__5041ODBN.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_25__walking_down_street_outside_angry__5041ODBN.mp4,1,Fake,"('09', '25')",09,2,01,"('09', '25')",val
+09_26__talking_against_wall__C3K20JOL.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_26__talking_against_wall__C3K20JOL.mp4,1,Fake,"('09', '26')",09,2,01,"('09', '26')",val
+09_26__walk_down_hall_angry__QSE5A0GF.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_26__walk_down_hall_angry__QSE5A0GF.mp4,1,Fake,"('09', '26')",09,2,01,"('09', '26')",val
+01__hugging_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__hugging_happy.mp4,0,Real,"('01',)",01,1,01,,test
+01__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/01__walking_down_street_outside_angry.mp4,0,Real,"('01',)",01,1,01,,test
+02__meeting_serious.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__meeting_serious.mp4,0,Real,"('02',)",02,1,01,,test
+02__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/02__outside_talking_pan_laughing.mp4,0,Real,"('02',)",02,1,01,,test
+03__outside_talking_pan_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/03__outside_talking_pan_laughing.mp4,0,Real,"('03',)",03,1,01,,test
+04__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__exit_phone_room.mp4,0,Real,"('04',)",04,1,01,,test
+04__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__outside_talking_still_laughing.mp4,0,Real,"('04',)",04,1,01,,test
+04__walk_down_hall_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/04__walk_down_hall_angry.mp4,0,Real,"('04',)",04,1,01,,test
+06__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__exit_phone_room.mp4,0,Real,"('06',)",06,1,01,,test
+06__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/06__kitchen_still.mp4,0,Real,"('06',)",06,1,01,,test
+07__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__kitchen_pan.mp4,0,Real,"('07',)",07,1,01,,test
+07__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__kitchen_still.mp4,0,Real,"('07',)",07,1,01,,test
+07__secret_conversation.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/07__secret_conversation.mp4,0,Real,"('07',)",07,1,01,,test
+08__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__kitchen_pan.mp4,0,Real,"('08',)",08,1,05,,test
+08__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__outside_talking_still_laughing.mp4,0,Real,"('08',)",08,1,05,,test
+08__podium_speech_happy.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__podium_speech_happy.mp4,0,Real,"('08',)",08,1,05,,test
+08__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/08__walking_down_street_outside_angry.mp4,0,Real,"('08',)",08,1,05,,test
+09__walking_down_street_outside_angry.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/09__walking_down_street_outside_angry.mp4,0,Real,"('09',)",09,1,01,,test
+10__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/10__outside_talking_still_laughing.mp4,0,Real,"('10',)",10,1,10,,test
+11__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__kitchen_pan.mp4,0,Real,"('11',)",11,1,01,,test
+11__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/11__kitchen_still.mp4,0,Real,"('11',)",11,1,01,,test
+12__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__talking_angry_couch.mp4,0,Real,"('12',)",12,1,01,,test
+12__walking_and_outside_surprised.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/12__walking_and_outside_surprised.mp4,0,Real,"('12',)",12,1,01,,test
+13__kitchen_pan.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__kitchen_pan.mp4,0,Real,"('13',)",13,1,01,,test
+13__outside_talking_still_laughing.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/13__outside_talking_still_laughing.mp4,0,Real,"('13',)",13,1,01,,test
+14__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/14__talking_angry_couch.mp4,0,Real,"('14',)",14,1,01,,test
+15__kitchen_still.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__kitchen_still.mp4,0,Real,"('15',)",15,1,01,,test
+15__talking_against_wall.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__talking_against_wall.mp4,0,Real,"('15',)",15,1,01,,test
+15__talking_angry_couch.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/15__talking_angry_couch.mp4,0,Real,"('15',)",15,1,01,,test
+16__exit_phone_room.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/real/16__exit_phone_room.mp4,0,Real,"('16',)",16,1,05,,test
+02_03__walking_down_street_outside_angry__QH3Y0IG0.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_03__walking_down_street_outside_angry__QH3Y0IG0.mp4,1,Fake,"('02', '03')",02,2,01,"('02', '03')",test
+02_03__walking_outside_cafe_disgusted__QH3Y0IG0.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_03__walking_outside_cafe_disgusted__QH3Y0IG0.mp4,1,Fake,"('02', '03')",02,2,01,"('02', '03')",test
+02_12__podium_speech_happy__9D2ZHEKW.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/02_12__podium_speech_happy__9D2ZHEKW.mp4,1,Fake,"('02', '12')",02,2,01,"('02', '12')",test
+03_04__outside_talking_pan_laughing__T04P6ELC.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_04__outside_talking_pan_laughing__T04P6ELC.mp4,1,Fake,"('03', '04')",03,2,01,"('03', '04')",test
+03_04__talking_angry_couch__T04P6ELC.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_04__talking_angry_couch__T04P6ELC.mp4,1,Fake,"('03', '04')",03,2,01,"('03', '04')",test
+03_27__walk_down_hall_angry__IL675GCI.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_27__walk_down_hall_angry__IL675GCI.mp4,1,Fake,"('03', '27')",03,2,01,"('03', '27')",test
+03_27__walking_down_indoor_hall_disgust__IL675GCI.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/03_27__walking_down_indoor_hall_disgust__IL675GCI.mp4,1,Fake,"('03', '27')",03,2,01,"('03', '27')",test
+04_12__walking_down_street_outside_angry__96TQKDFJ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_12__walking_down_street_outside_angry__96TQKDFJ.mp4,1,Fake,"('04', '12')",04,2,01,"('04', '12')",test
+04_26__outside_talking_still_laughing__WX836VLY.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/04_26__outside_talking_still_laughing__WX836VLY.mp4,1,Fake,"('04', '26')",04,2,01,"('04', '26')",test
+05_17__hugging_happy__YTJYYDO9.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_17__hugging_happy__YTJYYDO9.mp4,1,Fake,"('05', '17')",05,2,05,"('05', '17')",test
+05_17__walking_down_street_outside_angry__M3H96PDQ.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/05_17__walking_down_street_outside_angry__M3H96PDQ.mp4,1,Fake,"('05', '17')",05,2,05,"('05', '17')",test
+06_12__outside_talking_pan_laughing__3K21NFNM.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_12__outside_talking_pan_laughing__3K21NFNM.mp4,1,Fake,"('06', '12')",06,2,01,"('06', '12')",test
+06_12__podium_speech_happy__0VR4Y891.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_12__podium_speech_happy__0VR4Y891.mp4,1,Fake,"('06', '12')",06,2,01,"('06', '12')",test
+06_12__podium_speech_happy__3K21NFNM.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_12__podium_speech_happy__3K21NFNM.mp4,1,Fake,"('06', '12')",06,2,01,"('06', '12')",test
+06_25__outside_talking_pan_laughing__MI9BDQ7M.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_25__outside_talking_pan_laughing__MI9BDQ7M.mp4,1,Fake,"('06', '25')",06,2,01,"('06', '25')",test
+06_25__talking_angry_couch__MI9BDQ7M.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_25__talking_angry_couch__MI9BDQ7M.mp4,1,Fake,"('06', '25')",06,2,01,"('06', '25')",test
+06_25__walking_and_outside_surprised__MI9BDQ7M.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_25__walking_and_outside_surprised__MI9BDQ7M.mp4,1,Fake,"('06', '25')",06,2,01,"('06', '25')",test
+06_27__talking_angry_couch__JOG5PB18.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_27__talking_angry_couch__JOG5PB18.mp4,1,Fake,"('06', '27')",06,2,01,"('06', '27')",test
+06_27__walking_and_outside_surprised__O7L5Z9U8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/06_27__walking_and_outside_surprised__O7L5Z9U8.mp4,1,Fake,"('06', '27')",06,2,01,"('06', '27')",test
+07_12__outside_talking_still_laughing__0VN0A2T3.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_12__outside_talking_still_laughing__0VN0A2T3.mp4,1,Fake,"('07', '12')",07,2,01,"('07', '12')",test
+07_25__walk_down_hall_angry__PAE9HCA8.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_25__walk_down_hall_angry__PAE9HCA8.mp4,1,Fake,"('07', '25')",07,2,01,"('07', '25')",test
+07_26__walk_down_hall_angry__FGNGC2GT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_26__walk_down_hall_angry__FGNGC2GT.mp4,1,Fake,"('07', '26')",07,2,01,"('07', '26')",test
+07_26__walking_down_street_outside_angry__FGNGC2GT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/07_26__walking_down_street_outside_angry__FGNGC2GT.mp4,1,Fake,"('07', '26')",07,2,01,"('07', '26')",test
+08_28__outside_talking_pan_laughing__8BC35RFU.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/08_28__outside_talking_pan_laughing__8BC35RFU.mp4,1,Fake,"('08', '28')",08,2,05,"('08', '28')",test
+09_20__kitchen_pan__98NUQ3E6.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_20__kitchen_pan__98NUQ3E6.mp4,1,Fake,"('09', '20')",09,2,01,"('09', '20')",test
+09_20__podium_speech_happy__O5X0AWR9.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_20__podium_speech_happy__O5X0AWR9.mp4,1,Fake,"('09', '20')",09,2,01,"('09', '20')",test
+09_20__talking_angry_couch__0IRM5ADD.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/09_20__talking_angry_couch__0IRM5ADD.mp4,1,Fake,"('09', '20')",09,2,01,"('09', '20')",test
+10_19__kitchen_still__IDX76N5R.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/10_19__kitchen_still__IDX76N5R.mp4,1,Fake,"('10', '19')",10,2,10,"('10', '19')",test
+10_22__kitchen_pan__EHARPYBT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/10_22__kitchen_pan__EHARPYBT.mp4,1,Fake,"('10', '22')",10,2,10,"('10', '22')",test
+10_22__kitchen_still__EHARPYBT.mp4,/kaggle/input/datasets/hungle3401/faceforensics/FF++/fake/10_22__kitchen_still__EHARPYBT.mp4,1,Fake,"('10', '22')",10,2,10,"('10', '22')",test

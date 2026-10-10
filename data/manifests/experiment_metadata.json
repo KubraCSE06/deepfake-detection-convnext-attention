@@ -1,0 +1,19 @@
+{
+  "project": "Deepfake Detection with ConvNeXt-Tiny: An Attention Ablation Study",
+  "dataset": "FaceForensics++",
+  "models": [
+    "ConvNeXt-Tiny baseline",
+    "Channel Attention",
+    "Spatial Attention",
+    "ConvNeXt-Tiny + FFAM"
+  ],
+  "evaluation_level": "Video-level",
+  "checkpoint_files_saved": [
+    "convnext_baseline",
+    "channel_attention",
+    "spatial_attention",
+    "convnext_ffam"
+  ],
+  "exported_at": "2026-10-09T15:29:41.567860",
+  "note": "Checkpoint files contain model weights. Reconstruct the matching model architecture before loading them."
+}

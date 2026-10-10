@@ -1,0 +1,4 @@
+split,real_videos,fake_videos,total_videos,fake_manipulation_pairs
+train,140,140,280,39
+val,30,30,60,17
+test,30,30,60,17

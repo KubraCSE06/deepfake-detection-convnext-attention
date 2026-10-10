@@ -1,0 +1,32 @@
+﻿# Python caches and local environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Ignore raw datasets and generated image directories
+/data/raw/
+/data/frames/
+/data/faces/
+frames/
+faces/
+ffpp_frames/
+ffpp_faces/
+
+# Large archives and original videos
+*.zip
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.crdownload
+
+# Large model weights: manage separately
+*.pt
+*.pth
+*.ckpt
+
+# Kaggle/runtime paths
+/kaggle/
